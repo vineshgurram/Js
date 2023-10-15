@@ -1,0 +1,12 @@
+Primative Datatype
+number
+boolean
+null
+undefined
+bigInt
+string
+symbol
+
+Refernce type
+object
+array 

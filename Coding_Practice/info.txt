@@ -1,0 +1,5 @@
+https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-arrays-c44eea129fba
+https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-objects-8942cc502754
+
+
+after learning callback function properly then try exercise08
