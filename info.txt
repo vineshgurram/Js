@@ -1,1 +1,2 @@
-This is repos for Javascript from Scratch
+This is repos for Javascript from Scratch 
+This is Home
